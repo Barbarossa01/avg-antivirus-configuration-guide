@@ -4,7 +4,7 @@ A complete guide on installing, configuring, and testing AVG Antivirus on Window
 
 # AVG Antivirus Setup & Testing Guide (Windows)
 
-This project documents the process of installing, configuring, and testing **AVG Antivirus** on a Windows system. It's intended to simulate a real-world IT support task for help desk or junior IT specialist roles.
+This project documents the process of installing, configuring, and testing **AVG Antivirus** on a Windows system.
 
 ---
 
